@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    color: #000;
+    font-size: 25px;
+    font-family: Arial;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+span {
+    color: #f16a45;
+}
+.main {
+    width: 100%;
+    height: 20vh;
+}
+.navbar {
+    width: 1300px;
+    height: 35px;
+    margin: 20px;
+}
+
+.items {
+    text-transform:uppercase ;
+    
+}
+
+ul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    color: #000;
+    
+}
+ul li {
+    float: right;
+    list-style: none;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    font-size: 14px;
+}
+ul li a {
+    text-decoration: none;
+    color: #000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover {
+    color: #f16a45;
+    text-decoration: underline;
+}
+
+.image-text img {
+    margin: 30px;
+    width: 600px;
+    height: 350px;
+    
+}
+.image-text p {
+    font-size: 23px;
+    float: right;
+    padding-top: 30px;
+    margin-right: 20px;
+    width: 47%;
+}
+
+.footballers h1 {
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.bigbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    padding: 60px;
+    font-family: 'Roboto',Arial,sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    margin: 50px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 17px; 
+    background-image: url(https://wallpapershome.ru/images/wallpapers/krishtianu-ronaldu-2560x1440-krishtianu-ronaldu-16302.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.box6 {
+    background-image: url(https://stadion.uz/images/news/leomes.jpg);
+}
+.box2 {
+    background-image: url(https://i.ytimg.com/vi/r5UjsNfXEZ8/maxresdefault.jpg);
+}
+.box3 {
+    background-image: url(https://i.pinimg.com/736x/8b/21/6b/8b216b9c664d0ab967c5458df3fce363.jpg);
+}
+.box4 {
+    background-image: url(https://cdn.images.express.co.uk/img/dynamic/galleries/x701/281405.jpg);
+}
+
+.box5 {
+    background-image: url(https://i.pinimg.com/236x/a7/06/db/a706db1aa7086fc8106f4fd6256d1242--january--seville-spain.jpg);
+}
+.team h1 {
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+
+}
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+}
+.icon {
+    background-position: center;
+    background-size: cover;
+    margin: 160px;
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+}
+.icons {
+    background-image: url(https://i.pinimg.com/originals/0c/38/9b/0c389bc93d2ddc365897ff55a3cfd651.jpg);
+}
+.icon5 {
+    background-image: url(https://1000logos.net/wp-content/uploads/2017/03/Manchester-United-Logo-1998-1536x864.jpg);
+}
+.icon1 {
+    background-image: url(https://1000logos.net/wp-content/uploads/2018/05/PSG-logo-2048x1152.jpg);
+}
+.icon2 {
+    background-image: url(https://61.img.avito.st/avatar/social/1024x1024/4620590661.jpg);
+}
+.icon3 {
+    background-image: url(https://i.pinimg.com/originals/b9/ab/e1/b9abe1a9b905ba8f6e19a6e20a836289.png);
+}
+.icon4 {
+    background-image: url(https://i.pinimg.com/originals/14/df/75/14df75fa5791390b74766b70fef10c96.jpg);
+}
+.logos h3 {
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+    padding-top: 160px;
+}

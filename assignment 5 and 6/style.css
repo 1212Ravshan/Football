@@ -1,0 +1,28 @@
+.header {
+    background-image: url(https://wallpapershome.ru/images/pages/pic_h/11052.jpg);
+    color: #fff;
+    
+}
+.logo {
+    text-transform: uppercase;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    text-align: center;
+}
+.items {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.link {
+    list-style: none;
+    text-decoration: none;
+    
+    text-transform: uppercase;
+}
+.text {
+    padding: 295px;
+    font-size: x-large;
+    
+}

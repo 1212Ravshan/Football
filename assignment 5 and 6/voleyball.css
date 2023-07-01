@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    color: #000;
+    font-size: 25px;
+    font-family: Arial;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+span {
+    color: #f16a45;
+}
+.main {
+    width: 100%;
+    height: 20vh;
+}
+.navbar {
+    width: 1300px;
+    height: 35px;
+    margin: 20px;
+}
+
+.items {
+    text-transform:uppercase ;
+    
+}
+
+ul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    color: #000;
+    
+}
+ul li {
+    float: right;
+    list-style: none;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    font-size: 14px;
+}
+ul li a {
+    text-decoration: none;
+    color: #000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover {
+    color: #f16a45;
+    text-decoration: underline;
+}
+
+.image-text img {
+    margin: 30px;
+    width: 600px;
+    height: 350px;
+    
+}
+.image-text p {
+    font-size: 23px;
+    float: left;
+    padding-top: 30px;
+    margin-left: 20px;
+    width: 47%;
+}
+
+.footballers h1 {
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.bigbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    padding: 60px;
+    font-family: 'Roboto',Arial,sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    margin: 50px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 17px; 
+    background-position: center;
+    background-size: cover;
+}
+.box6 {
+    background-image: url(https://media.gettyimages.com/photos/ran-takahashi-is-seen-during-the-japan-mens-volleyball-national-team-picture-id1317376648);
+}
+
+.box1 {
+    background-image: url(https://avatars.mds.yandex.net/i?id=a59a4cdbcb11e7f101990c2a22063781-5865710-images-thumbs&ref=rim&n=33&w=299&h=188);
+}
+.box2 {
+    background-image: url(https://i.pinimg.com/originals/2f/eb/b7/2febb761e320938c6f11d631bcd8494c.jpg);
+}
+.box3 {
+    background-image: url(https://worldofvolley.com/wp-content/uploads/2021/05/unnamed-file-1910.jpg);
+}
+.box4 {
+    background-image: url(http://cdn1.img.rsport.ru/images/88539/55/885395530.jpg);
+}
+
+.box5 {
+    background-image: url(https://sportishka.com/uploads/posts/2021-11/1637761680_3-sportishka-com-p-tobias-krik-voleibolist-komandnii-sport-fo-4.jpg);
+}
+.team h1 {
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+
+}
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+}
+.icon {
+    width: 150px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    margin: 160px;
+    margin-top: 50px;
+}
+.icon6 {
+    background-image: url(https://cdn1.sportngin.com/attachments/call_to_action/6d18-111609969/synergyvolleyball_large.jpeg);
+}
+.icon5 {
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/550e7716115111.562a595e59863.jpg);
+}
+.icon1 {
+    background-image: url(https://s3.amazonaws.com/htw/dt-contest-entries/208994/united-states-volleyball-logo-design.png);
+}
+.icon2 {
+    background-image: url(https://i.pinimg.com/originals/f3/28/5e/f3285e53843350f7c15d54617d77e242.jpg);
+}
+.icon3 {
+    background-image: url(https://as2.ftcdn.net/jpg/02/20/55/37/500_F_220553737_sUOsNn9sAPlwbKT4jYLG3Zg24LgZTB8B.jpg);
+}
+.icon4 {
+    background-image: url(https://i.pinimg.com/originals/e4/d9/18/e4d91861f237f0f393bc43573dfd8942.gif);
+}
+.logos h3 {
+    font-family: 'Roboto',Arial,sans-serif;
+    text-align: center;
+    padding-top: 160px;
+}
